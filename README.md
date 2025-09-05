@@ -4,6 +4,10 @@
 
 Built using Carrd, Tally, Make.com, and Airtable, it automates the process of collecting marketing inputs, analyzing them, and delivering feedback directly to the user’s inbox.
 
+<img width="1641" height="831" alt="Marketing ROI Screenshot 1" src="https://github.com/user-attachments/assets/d60957c4-c0b3-4b6d-954a-bbd0b3892ef7" />
+
+
+
 ## What This Project Does
 - Hosts a clean landing page with a simple call-to-action
 - Captures campaign details through a dynamic form
@@ -31,9 +35,3 @@ This project was created and is maintained by Alex Szoka as part of a portfolio 
 - No-code/low-code automation
 - UX/UI design
 - Web integration
-
----
-
-**More coming soon:**  
-Plans for **Version 2** include advanced input parsing, multi-format file upload, and deeper analytics insights.
-
