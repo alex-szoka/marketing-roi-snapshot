@@ -2,11 +2,10 @@
 
 **Marketing ROI Snapshot** is a no-code web tool designed to help marketers assess campaign effectiveness and uncover actionable ROI insights — fast.
 
-Built using Carrd, Tally, Make.com, and Airtable, it automates the process of collecting marketing inputs, analyzing them, and delivering feedback directly to the user’s inbox.
+Built using Carrd.com, Tally.com, Make.com, and Airtable.com, it automates the process of collecting marketing inputs, analyzing them, and delivering feedback directly to the user’s inbox.
 
 <img width="1641" height="831" alt="Marketing ROI Screenshot 1" src="https://github.com/user-attachments/assets/d60957c4-c0b3-4b6d-954a-bbd0b3892ef7" />
-
-
+<img width="1617" height="696" alt="Marketing ROI response" src="https://github.com/user-attachments/assets/ab6dda0c-b07b-4961-96c9-f6af3d76ef93" />
 
 ## What This Project Does
 - Hosts a clean landing page with a simple call-to-action
